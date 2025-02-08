@@ -3,7 +3,7 @@
 
 ![Blue and White Simple Designer LinkedIn Banner (1)](https://github.com/user-attachments/assets/10eb49d2-7fcc-4bae-a944-236178023e56)
 
-Soy un desarrollador web con residencia en Madrid. Mi pasión por la tecnología y el desarrollo web me ha llevado a adquirir una amplia gama de habilidades y conocimientos en muchos lenguajes y tecnologías.
+Soy un desarrollador web junior con residencia en Madrid. Mi pasión por la tecnología y el desarrollo web me ha llevado a adquirir una amplia gama de habilidades y conocimientos en muchos lenguajes y tecnologías.
 
 Con una sólida formación académica y varias certificaciones en informática y desarrollo de aplicaciones web, me dedico a crear soluciones digitales eficientes y atractivas. Siempre estoy en busca de nuevas oportunidades para aprender y crecer profesionalmente, manteniéndome al día con las últimas tendencias y avances en el ámbito del desarrollo web.
 
