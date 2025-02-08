@@ -8,7 +8,7 @@ Con una sólida formación académica y varias certificaciones en informática y
 
 Mi objetivo es seguir contribuyendo a proyectos innovadores y colaborativos que marquen una diferencia positiva en el mundo digital.
 
-
+## ¡Hola! Soy Borja 👋
 
 
 
